@@ -1,12 +1,9 @@
-#env vars
-export EDITOR=vim
+# Shell prompt
+PROMPT='%B%F{41}%n%b%B%F{41}@%m%f:%B%F{56}%~%f$ '
 
 #keyboard bindings
 bindkey "^[[1;5C" forward-word
 bindkey "^[[1;5D" backward-word
-
-#zsh features
-source /usr/local/share/zsh-themes/aphrodite-terminal-theme/aphrodite.zsh-theme
 
 #history file
 HISTFILE=~/.zsh_history
