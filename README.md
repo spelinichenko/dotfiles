@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles: zsh, vim, tmux, kitty
+My dotfiles: zsh, vim, tmux, kitty, alacritty
